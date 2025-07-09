@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
       title: "FPV Rasante",
+      icons: {
+            icon: "/favicon-32x32.png",
+      },
       description: "Capturamos la esencia y elegancia de propiedades excepcionales a través de cinematografía aérea con drones FPV de última generación.",
       keywords: [
             "FPV",
